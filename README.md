@@ -1,10 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello👋)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello👋&fontSize=40)
 
 
-My name is **Jinhyuk Suh**
+<h2 align="center">My name is <strong>Jinhyuk Suh</strong></h2>
+<h3 align="center">🙌 Let's me introduce myself 😊</h3>
 
-:raised_hands: ##Let's me introduct my self## :blush:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,3 +18,7 @@ My name is **Jinhyuk Suh**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=200&section=footer&fontSize=40)
