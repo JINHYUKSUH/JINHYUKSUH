@@ -42,11 +42,22 @@
  <h3 align="center"> :boy: Contact me</h3>
 
 <p align="center">
+  <!-- Instagram -->
   <a href="https://www.instagram.com/jin_hyuk_0618">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/KakaoTalk-jhsuh0618-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black"/>
+
+  <!-- KakaoTalk -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/KakaoTalk-jhsuh0618-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=black"/>
+  </a>
+
+  <!-- Naver Blog -->
+  <a href="https://blog.naver.com/zjhsuhz">
+    <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=naver&logoColor=white"/>
+  </a>
 </p>
+
 
 
 
