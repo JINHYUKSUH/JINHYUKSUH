@@ -39,7 +39,7 @@
 </p>
 
 
- <h3 align="center"> 🧑‍💻 Contact me</h3>
+ <h3 align="center"> :boy: Contact me</h3>
 
 <p align="center">
   <a href="https://www.instagram.com/jin_hyuk_0618">
