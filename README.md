@@ -1,11 +1,16 @@
-## Hi there👋
 
-My name is **Jinhyuk Suh** ✨
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Hello👋)
 
-Here are some ideas to get you started:
+
+My name is **Jinhyuk Suh**
+
+:raised_hands: ##Let's me introduct my self## :blush:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
+
+ [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=zerotiger)](https://solved.ac/zerotiger)
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
