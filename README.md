@@ -36,7 +36,9 @@
   
   <!-- Tool -->
   <img src="https://img.shields.io/badge/SPICE-8A2BE2?style=for-the-badge&logo=circuitverse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white"/>
 </p>
+
 
 
  <h3 align="center"> :boy: Contact me</h3>
