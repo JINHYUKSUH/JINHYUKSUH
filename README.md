@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  👨‍🎓 I’m an MS student in ORAIL Lab (Professor: <strong>Youngbum Hur</strong>)
+  👨‍🎓 I’m an MS student in ORAIL Lab at Inha University (Professor: <strong>Youngbum Hur</strong>)
 </p>
 
 <p align="center">
