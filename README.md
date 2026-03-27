@@ -21,7 +21,6 @@
 </p>
 
 
- <h3 align="center"> :computer: Skills</h3>
 
 <p align="center">
   <h3 align="center"> :computer: Skills</h3>
