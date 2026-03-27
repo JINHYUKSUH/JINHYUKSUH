@@ -24,6 +24,9 @@
  <h3 align="center"> :computer: Skills</h3>
 
 <p align="center">
+  <h3 align="center"> :computer: Skills</h3>
+
+<p align="center">
   <!-- Language -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
@@ -31,6 +34,7 @@
   
   <!-- Framework / Library -->
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white"/>
   
   <!-- Database -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -39,6 +43,7 @@
   <img src="https://img.shields.io/badge/SPICE-8A2BE2?style=for-the-badge&logo=circuitverse&logoColor=white"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=matlab&logoColor=white"/>
   <img src="https://img.shields.io/badge/CPLEX-054ADA?style=for-the-badge&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PLC-FF6F00?style=for-the-badge&logo=siemens&logoColor=white"/>
 </p>
 
 
